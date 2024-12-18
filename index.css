@@ -229,3 +229,17 @@ footer {
   margin-top: 40px;
   text-align: center;
 }
+
+.sale-announcement {
+  color: #ff0000; /* Червоний для привернення уваги */
+  font-size: 1.5rem; /* Розмір тексту */
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+  background: #fff2f2; /* Легка заливка для виділення */
+  padding: 10px;
+  border: 2px solid #ff0000; /* Червона рамка */
+  border-radius: 8px;
+  max-width: 80%;
+  margin: 10px auto;
+}
